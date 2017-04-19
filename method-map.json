@@ -1,0 +1,8 @@
+{
+  "charges": {
+    "GET": {
+      "method": "",
+      "expand": ["customer"]
+    }
+  }
+}
